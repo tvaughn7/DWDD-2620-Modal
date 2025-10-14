@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "The Conjuring",
+    "year": 2013,
+    "genre": "Supernatural",
+    "director": "James Wan",
+    "rating": "R",
+    "duration": "112 min",
+    "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+    "image": "/src/images/TheConjuring.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Halloween",
+    "year": 1978,
+    "genre": "Slasher",
+    "director": "John Carpenter",
+    "rating": "R",
+    "duration": "91 min",
+    "description": "Fifteen years after murdering his sister, Michael Myers escapes and returns to his hometown to kill again on Halloween night.",
+    "image": "/src/images/Halloween.jpg"
+  },
+  {
+    "id": 3,
+    "title": "A Nightmare on Elm Street",
+    "year": 1984,
+    "genre": "Slasher",
+    "director": "Wes Craven",
+    "rating": "R",
+    "duration": "91 min",
+    "description": "Teenagers are terrorized in their dreams by the vengeful spirit of Freddy Krueger, a disfigured serial killer.",
+    "image": "/src/images/NightemareOnElmStreet.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Hereditary",
+    "year": 2018,
+    "genre": "Supernatural",
+    "director": "Ari Aster",
+    "rating": "R",
+    "duration": "127 min",
+    "description": "A grieving family is haunted by tragic and disturbing occurrences after the death of their secretive grandmother.",
+    "image": "/src/images/Hereditary.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Exorcist",
+    "year": 1973,
+    "genre": "Supernatural",
+    "director": "William Friedkin",
+    "rating": "R",
+    "duration": "122 min",
+    "description": "When a young girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.",
+    "image": "/src/images/TheExorcist.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Get Out",
+    "year": 2017,
+    "genre": "Modern",
+    "director": "Jordan Peele",
+    "rating": "R",
+    "duration": "104 min",
+    "description": "A young African-American visits his white girlfriend's family estate and uncovers a disturbing secret.",
+    "image": "/src/images/GetOut.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Shining",
+    "year": 1980,
+    "genre": "Classics",
+    "director": "Stanley Kubrick",
+    "rating": "R",
+    "duration": "146 min",
+    "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence.",
+    "image": "/src/images/TheShining.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Scream",
+    "year": 1996,
+    "genre": "Slasher",
+    "director": "Wes Craven",
+    "rating": "R",
+    "duration": "111 min",
+    "description": "A year after her mother's murder, a teenage girl is terrorized by a masked killer who targets her and her friends.",
+    "image": "/src/images/scream.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Insidious",
+    "year": 2010,
+    "genre": "Supernatural",
+    "director": "James Wan",
+    "rating": "PG-13",
+    "duration": "103 min",
+    "description": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.",
+    "image": "/src/images/insidious.jpg"
+  },
+  {
+    "id": 10,
+    "title": "It Follows",
+    "year": 2014,
+    "genre": "Modern",
+    "director": "David Robert Mitchell",
+    "rating": "R",
+    "duration": "100 min",
+    "description": "A young woman is followed by an unknown supernatural force after a sexual encounter.",
+    "image": "/src/images/Itfollows.jpg"
+  }
+]
