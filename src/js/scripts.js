@@ -87,7 +87,7 @@ function filterMovies(genre) {
 // Load movie data from JSON
 async function loadMovies() {
   try {
-    const response = await fetch('/src/data/movies.json');
+    const response = await fetch('./data/movies.json');
     const data = await response.json();
     console.log('Movies loaded:', data);
     allMovies = data;
