@@ -1,9 +1,9 @@
 import { defineConfig } from 'vite'
 import tailwindcss from '@tailwindcss/vite'
 
-export default defineConfig({
+export default defineConfig(({ command }) => ({
   plugins: [
     tailwindcss(),
   ],
-  base: process.env.NODE_ENV === 'production' ? '/DWDD-2620-Modal/' : '/',
-})
+  base: command === 'build' ? '/DWDD-2620-Modal/' : '/',
+}))
